@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mubinkhalife" target="blank"><img src="https://img.shields.io/twitter/follow/mubinkhalife?logo=twitter&style=for-the-badge" alt="mubinkhalife" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, NextJS**
+- 🌱 I’m currently learning **MERN, NextJS, React Native and Web3**
 
 - 👨‍💻 All of my projects are available at [https://mubin-khalife.digital](https://mubin-khalife.digital)
 
