@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubin</h1>
-<h3 align="center">I am a polyglot developer with Full-Stack, Hybrid App development experience with a knack for Technical Writing.</h3>
+<h3 align="center">I am a polyglot developer having Full-Stack and Hybrid App development experience. I also have a knack for Technical Writing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalifemubin&label=Profile%20views&color=0e75b6&style=flat" alt="khalifemubin" /> </p>
 
