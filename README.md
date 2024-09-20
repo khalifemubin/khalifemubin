@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubin</h1>
 <h3 align="center">
-  I am a polyglot developer having Full-Stack and Hybrid App development
-  experience. I also have a knack for Technical Writing.
+  I am a polyglot developer having Full-Stack and Cross platform App development experience
 </h3>
 
 <p align="left">
@@ -27,9 +26,9 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Data Science** 
+- 🌱 I’m currently learning **Data Engineering** 
 - 👨‍💻 All of my projects are available at [https://mubin-khalife.digital](https://mubin-khalife.digital) 
-- 📝 I regularly write articles on [https://medium.com/@mubin.khalife](https://medium.com/@mubin.khalife)
+- 📝 I write articles on [https://medium.com/@mubin.khalife](https://medium.com/@mubin.khalife)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -173,14 +172,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bourne Again Shell (BASH)">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -230,26 +221,10 @@
     />
   </a>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer" title="GraphQL">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
       width="40"
       height="40"
     />
