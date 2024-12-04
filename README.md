@@ -27,7 +27,7 @@
 </p>
 
 - 🌱 I’m currently learning **Data Engineering** 
-- 👨‍💻 All of my projects are available at [https://mubin-khalife.digital](https://mubin-khalife.digital) 
+<!--- 👨‍💻 All of my projects are available at [https://mubin-khalife.digital](https://mubin-khalife.digital) -->
 - 📝 I write articles on [https://medium.com/@mubin.khalife](https://medium.com/@mubin.khalife)
 
 <h3 align="left">Connect with me:</h3>
