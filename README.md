@@ -48,8 +48,8 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/goofyprogrammer" target="blank"
-    ><img
+  <a href="https://stackoverflow.com/users/goofyprogrammer" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="goofyprogrammer"
@@ -57,260 +57,229 @@
       width="40"
   /></a>
 </p>
-
+<!--<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <i class="devicon-flask-original-wordmark colored"></i>
+  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
+      title="Python"
       width="40"
       height="40"
     />
-  </a>
-  
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="Nginx">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
+      src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/flask-light.svg"
+      alt="flask"
+      title="Flask"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
+  <img
+      src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png"
+      alt="spark"
+      title="Apache Spark"
+      width="54"
+      height="40"
+    />
+  <img
+      src="https://assets.datamation.com/uploads/2024/02/dm_20240212-apache-airflow-review.png"
+      alt="airflow"
+      title="Apache Airflow"
+      width="50"
+      height="40"
+    />
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s"
       alt="pandas"
+      title="Pandas"
       width="40"
       height="40"
+      background="white"
     />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
+      title="AWS"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      title="Javascript"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="ReactJS">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+      alt="react.js"
+      title="ReactJS"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
     <img
-      src="https://reactnative.dev/img/header_logo.svg"
+      src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
       alt="reactnative"
+      title="React Native"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs"
       alt="nextjs"
-      width="40"
+      title="NextJS"
+      width="54"
       height="40"
     />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
+      title="Firebase"
       width="40"
       height="40"
     />
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
+      title="Linux"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android"
+      title="Android"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mongodb/mongodb-plain-wordmark.svg"
       alt="mongodb"
+      title="MongoDB"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg"
       alt="nodejs"
+      title="NodeJS"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express JS">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
+      src="https://cdn.creazilla.com/icons/3498663/status-iucn-ex-icon-blank-icon-lg.png"
+      alt="express.js"
+      title="ExpressJs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bourne Again Shell (BASH)">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      src="https://www.svgrepo.com/show/353478/bash-icon.svg"
       alt="bash"
+      title="Bash"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
+      title="Docker"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
       alt="jenkins"
+      title="Jenkins"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" title="Kubernetes (K8s)">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes"
+      title="Kubernetes"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
+      title="CSS"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
+      title="Git"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
+      title="Html5"
       width="40"
       height="40"
     />
-  </a>
-  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/laravel/laravel-original.svg"
       alt="laravel"
+      title="Laravel"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer" title="MariaDB">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
+      title="MySQL"
       width="40"
       height="40"
     />
-  </a>
-  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="php"
+      title="PHP"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      title="Postgres"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
+      title="Postman"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
+      title="Redux"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      title="Typescript"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer" title="Vagrant">
     <img
       src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"
       alt="vagrant"
+      title="Vagrant"
       width="40"
       height="40"
     />
-  </a>
 </p>
 
 <p>
