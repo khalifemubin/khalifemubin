@@ -26,7 +26,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Data Engineering** 
+<!-- - 🌱 I’m currently learning **Data Engineering** -->
 <!--- 👨‍💻 All of my projects are available at [https://mubin-khalife.digital](https://mubin-khalife.digital) -->
 - 📝 I write articles on [https://medium.com/@mubin.khalife](https://medium.com/@mubin.khalife)
 
@@ -76,7 +76,7 @@
       width="40"
       height="40"
     />
-  <img
+  <!--<img
       src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png"
       alt="spark"
       title="Apache Spark"
@@ -89,7 +89,7 @@
       title="Apache Airflow"
       width="50"
       height="40"
-    />
+    />-->
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s"
       alt="pandas"
@@ -119,13 +119,13 @@
       width="40"
       height="40"
     />
-    <img
+    <!--<img
       src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"
       alt="reactnative"
       title="React Native"
       width="40"
       height="40"
-    />
+    />-->
     <img
       src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs"
       alt="nextjs"
